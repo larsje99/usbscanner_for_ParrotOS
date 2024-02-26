@@ -115,7 +115,7 @@ def main():
     try:
         flash_drive_path = subprocess.getoutput(['lsscsi | rev | cut -d \' \' -f2 | rev'])
         list_of_paths = flash_drive_path.split('\n')
-        cleaned_list = [x for x in list_of_paths if x != ' ']
+        cleaned_list = [x for x in list_of_paths if x != '']
         print(cleaned_list[-1])
     except:
         print("\033[1mERROR: UNABLE TO RETRIEVE FLASH DRIVE PATH, CHECK CONNECTIVITY OF FLASH DRIVE!\033[0m")
