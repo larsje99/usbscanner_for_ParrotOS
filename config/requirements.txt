@@ -1,0 +1,8 @@
+pip
+python
+usbguard
+usbutils
+udisks2
+lsscsi
+ewf-tools
+zip
