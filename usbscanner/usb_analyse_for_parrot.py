@@ -137,7 +137,7 @@ def main():
         subprocess.run(image_command, shell=True)
         print("\n\n-----------------------------\n\033[1mIMAGE SUCCESFULLY CREATED!\033[0m\n-----------------------------\n\n")
     
-    elif image_making_confirm = "PROCEED":
+    elif image_making_confirm == "PROCEED":
         print("\n")
         name_for_image = input("PLEASE ENTER THE NAME OF EXISTING FILE (MUST BE IN HOME DIRECTORY): ") 
     else:
