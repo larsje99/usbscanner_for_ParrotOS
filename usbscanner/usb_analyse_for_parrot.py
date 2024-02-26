@@ -121,6 +121,7 @@ def main():
     
     name_for_image = input("PLEASE ENTER A FILENAME FOR THE IMAGE: ")
     image_command = 'sudo ewfacquire -w -m removable -l image_process_log -c fast -f ftk -t ' + str(name_for_image) + ' ' + cleaned_list[-1]
+    print(cleaned_list[-1])
     
     subprocess.run(image_command, shell=True)
     
