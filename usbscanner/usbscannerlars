@@ -2,4 +2,4 @@ PYTHON=$(which python3)
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-sudo "$PYTHON" "$DIR/home/vboxuser/usbscanner_for_parrotos/usbscanner/usb_analyse_for_parrot.py"
+sudo "$PYTHON" "$DIR/usbscanner_for_parrotos/usbscanner/usb_analyse_for_parrot.py"
