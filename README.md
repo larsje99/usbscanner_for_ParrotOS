@@ -8,7 +8,7 @@
 4. RUN 'sudo freshclam' | *ClamAV virus database will be updated*
 5. RUN 'sudo apt install clamtk' | *Install GUI for ClamAV*
 6. RUN 'sudo git clone https://github.com/larsje99/usbscanner_for_ParrotOS.git' | *Clone the repository into home directory*
-7. RUN 'sudo mv usbscanner_for_ParrotOS/usbscanner/config/scalpel.conf /etc/scalpel' | *Replace default scalpel configuration file with provided configuration*
+7. RUN 'sudo mv usbscanner_for_ParrotOS/config/scalpel.conf /etc/scalpel' | *Replace default scalpel configuration file with provided configuration*
 8. RUN 'cd usbscanner_for_ParrotOS/usbscanner' | *Navigate to the folder*
 9. RUN 'sudo mv usbscannerlars /usr/local/bin' | *Move the bash script to PATH environment*
 10. RUN 'sudo chmod +x /usr/local/bin/usbscannerlars' | *Make the script executable*
