@@ -17,3 +17,7 @@
 
 VERSION 0.0.1
 FUTURE UPDATES COMING SOON!
+
+**IN THE MAKING:**
+
+- StegoMalware Prevention
