@@ -2,6 +2,7 @@ pip
 python
 usbutils
 udisks2
+usbguard
 lsscsi
 ewf-tools
 clamav
