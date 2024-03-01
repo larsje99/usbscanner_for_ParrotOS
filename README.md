@@ -3,7 +3,7 @@
 <h2>INSTALLATION GUIDE:</h2>
 
 1. RUN 'sudo apt update' | *This will update apt instance*
-2. RUN 'sudo apt install git pip python usbguard usbutils udisks2 clamav clamav-daemon scalpel' | *Install required packages for this project*
+2. RUN 'sudo apt install git pip python3 usbguard usbutils udisks2 clamav clamav-daemon scalpel' | *Install required packages for this project*
 3. RUN 'sudo service clamav-freshclam stop | *Will stop freshclam service if running*
 4. RUN 'sudo freshclam' | *ClamAV virus database will be updated*
 5. RUN 'sudo apt install clamtk' | *Install GUI for ClamAV*
