@@ -4,7 +4,7 @@
 
 1. RUN 'sudo apt update' | *This will update apt instance*
 2. RUN 'sudo apt install git pip python3 usbguard usbutils udisks2 clamav clamav-daemon scalpel lsscsi ewf-tools zip' | *Install required packages for this project*
-3. RUN 'sudo service clamav-freshclam stop | *Will stop freshclam service if running*
+3. RUN 'sudo service clamav-freshclam stop' | *Will stop freshclam service if running*
 4. RUN 'sudo freshclam' | *ClamAV virus database will be updated*
 5. RUN 'sudo apt install clamtk' | *Install GUI for ClamAV*
 6. RUN 'sudo git clone https://github.com/larsje99/usbscanner_for_ParrotOS.git' | *Clone the repository into home directory*
