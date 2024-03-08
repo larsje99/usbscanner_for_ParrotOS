@@ -20,5 +20,5 @@ FUTURE UPDATES COMING SOON!
 
 <h2>RECOMMENDED OS</h2>
 
-ParrotOS
-RaspbianOS Bullseye also supported!
+<p>ParrotOS</p>
+<p>RaspbianOS Bullseye also supported!</p>
