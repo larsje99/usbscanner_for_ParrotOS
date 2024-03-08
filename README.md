@@ -17,3 +17,8 @@
 
 VERSION 0.0.1
 FUTURE UPDATES COMING SOON!
+
+<h2>RECOMMENDED OS</h2>
+
+ParrotOS
+RaspbianOS Bullseye also supported!
