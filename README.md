@@ -12,6 +12,8 @@ It should look like this -> uncheck the boxes:
 
 ![raspberry_example](https://raw.githubusercontent.com/larsje99/usbscanner_for_ParrotOS/master/screenshots/raspberry_example.png)
 
+<p>Otherwise consult this video: https://www.youtube.com/watch?v=JUe0Eel_k_w&t=79s</p>
+
 <br>
 
 <h2>INSTALLATION GUIDE:</h2>
