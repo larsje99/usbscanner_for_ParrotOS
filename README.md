@@ -4,6 +4,8 @@
 
 Bla bla bla
 
+<br>
+
 <h2>INSTALLATION GUIDE:</h2>
 
 1. RUN 'sudo apt update' | *This will update apt instance*
