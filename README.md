@@ -25,4 +25,4 @@ FUTURE UPDATES COMING SOON!
 
 <h2>RASPBERRY PI IMAGE DOWNLOAD</h2>
 
-[DOWNLOAD IMAGE FOR RASPBERRY PI](https://drive.google.com/file/d/18fWec4qs3UmGOD-XDVaYWxiJbtNy4cJa/view?usp=sharing)https://drive.google.com/file/d/18fWec4qs3UmGOD-XDVaYWxiJbtNy4cJa/view?usp=sharing)
+[DOWNLOAD IMAGE FOR RASPBERRY PI](https://drive.google.com/file/d/18fWec4qs3UmGOD-XDVaYWxiJbtNy4cJa/view?usp=sharing)
