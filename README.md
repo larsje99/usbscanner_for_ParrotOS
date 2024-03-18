@@ -1,6 +1,6 @@
 <h1>LARS' USB SCANNER</h1>
 
-<h2>BEFORE INSTALLING</h2>
+<h2>BEFORE INSTALLING:</h2>
 
 Bla bla bla
 
