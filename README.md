@@ -20,7 +20,8 @@ FUTURE UPDATES COMING SOON!
 
 <h2>RECOMMENDED OS</h2>
 
-<p>ParrotOS</p>
+<p>ParrotOS Security Edition</p>
+<p>Kali Linux</p>
 <p>RaspbianOS Bullseye also supported! (Recommended: Raspberry Pi 4 or higher)</p>
 
 <h2>RASPBERRY PI IMAGE DOWNLOAD</h2>
