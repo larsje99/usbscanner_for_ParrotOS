@@ -22,3 +22,7 @@ FUTURE UPDATES COMING SOON!
 
 <p>ParrotOS</p>
 <p>RaspbianOS Bullseye also supported! (Recommended: Raspberry Pi 4 or higher)</p>
+
+<h2>RASPBERRY PI IMAGE DOWNLOAD</h2>
+
+<p>DOWNLOAD LINK</p>
