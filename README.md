@@ -21,4 +21,4 @@ FUTURE UPDATES COMING SOON!
 <h2>RECOMMENDED OS</h2>
 
 <p>ParrotOS</p>
-<p>RaspbianOS Bullseye also supported!</p>
+<p>RaspbianOS Bullseye also supported! (Recommended: Raspberry Pi 4 or higher)</p>
