@@ -6,10 +6,7 @@ Make sure to turn off automatic mounting in file explorer!
 
 <p>1. Go to your file explorer</p>
 
-<p>
-
 2. Click **Edit** > **Preferences** > **Volume Management**
-</p>
 
 It should look like this -> uncheck the boxes:
 
