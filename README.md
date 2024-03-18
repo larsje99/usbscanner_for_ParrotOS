@@ -2,7 +2,15 @@
 
 <h2>BEFORE INSTALLING:</h2>
 
-Bla bla bla
+Make sure to turn off automatic mounting in file explorer!
+
+<p>1. Go to your file explorer</p>
+
+2. Click **Edit** > **Preferences** > **Volume Management**
+
+It should look like this -> uncheck the boxes:
+
+![raspberry_example](https://raw.githubusercontent.com/larsje99/usbscanner_for_ParrotOS/master/screenshots/raspberry_example.png)
 
 <br>
 
